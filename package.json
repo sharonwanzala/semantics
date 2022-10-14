@@ -1,0 +1,21 @@
+{
+  "name": "semantics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-d dist"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonwanzala/semantics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonwanzala/semantics/issues"
+  },
+  "homepage": "https://github.com/sharonwanzala/semantics#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
